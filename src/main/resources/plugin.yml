@@ -1,0 +1,4 @@
+name: Medelium
+version: '${project.version}'
+main: me.passrym07.medelium.Medelium
+api-version: 1.19
